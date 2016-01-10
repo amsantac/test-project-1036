@@ -570,8 +570,8 @@ REDUCTION_SCALE_METERS = 20000
 # The Wikipedia URL prefix.
 WIKI_URL = 'http://en.wikipedia.org/wiki/'
 
-vizParams_L5L7 = {'min':0,'max':10000, 'bands': 'B4,B5,B3'}
-vizParams_L8 = {'min':0,'max':1, 'bands': 'B5,B6,B4'}
+vizParams_L5L7 = {'min':0,'max':4000, 'bands': 'B4,B5,B3'}
+vizParams_L8 = {'min':0,'max':0.4, 'bands': 'B5,B6,B4'}
 
 ###############################################################################
 #                               Initialization.                               #

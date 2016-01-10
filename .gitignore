@@ -16,3 +16,7 @@ oauth2client/
 
 # RStudio files
 .Rproj.user/
+
+config.py
+config.pyc
+server.pyc
